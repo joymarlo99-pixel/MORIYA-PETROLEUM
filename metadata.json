@@ -1,0 +1,8 @@
+{
+  "name": "Moriya Petroleum - Indian Oil Retail Outlet #24391",
+  "description": "Forecourt operations, live CCTV surveillance matrix, direct fuel & token dispatcher, and transporter fleet verification gateway for Moriya Petroleum (IOCL #24391), SH-40 Lakhnadon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
